@@ -15,9 +15,19 @@
 
 # Overview
 
-This project is a modular Python-based drilling analytics pipeline designed to ingest high-frequency telemetry logs, compute advanced rock-mechanics KPIs, and generate automated engineering insights using Generative AI.
+This project is a modular Python-based drilling analytics pipeline designed to ingest
+high-frequency drilling parameters and geology logs, compute advanced rock-mechanics metrics,
+and generate automated engineering insights using Generative AI,
+eliminating human tedious analysis and accelerates decision-making. 
 
-The platform standardizes heterogeneous drilling data, classifies rig operational states, computes Mechanical Specific Energy (MSE), and leverages Google Gemini for technical interpretation and optimization recommendations.
+The platform standardizes heterogeneous drilling data, classifies rig operational states,
+computes Mechanical Specific Energy (MSE), and leverages Google Gemini fortechnical interpretation
+and optimization recommendations.
+
+## Future Roadmap
+While the current architecture relies on asynchronous `.csv` file ingestion,
+the next engineering phase would be to implement a direct API/connector hook
+to real-time operations databases, such as Well Advisor, for true real-time data streaming.
 
 ---
 
@@ -321,3 +331,7 @@ See the `LICENSE` file for additional details.
 # Author
 
 Developed as a production-oriented drilling analytics and AI engineering platform focused on telemetry intelligence, operational optimization, and automated technical reporting.
+
+# 📄 Example Output
+
+You can find a sample file named `example-output.txt` in the repository.

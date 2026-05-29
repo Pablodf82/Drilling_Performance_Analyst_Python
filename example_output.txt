@@ -1,0 +1,23 @@
+🤖 AI REAL-TIME ADVISORY ACTION PLAN:
+**TECHNICAL REVIEW: WELL DRILLING PERFORMANCE OPTIMIZATION**
+
+
+* **Efficiency Gain:** ROP increased from 103.2 to 110.3 m/h while MSE dropped to 1626.6 bar.
+
+* **High Stability:** Downhole Vibration Severity Index is at 0.00, completely ruling out any stick-slip.
+
+* **No Inefficiency:** Lower MSE proves the drilling system has gained mechanical efficiency in this interval.
+
+* **Lithology Check:** The data rules out transitions to harder formations or bad downhole mechanical trends.
+
+* **Hydraulics:** Stable mud flow (4192 L/min) handles the current increased cuttings load remarkably well.
+
+* **Pressure Trend:** Standpipe Pressure saw a very minor, safe and predictable increase from 10.7 to 11.2 bar.
+
+* **Hole Cleaning:** Zero vibrations confirm that current annular velocity prevents the formation of cutting beds.
+
+* **WOB Target:** Recommended operational test: increase WOB by 0.5 to 1.0 MT (targeting a total of 12.1-12.6 MT).
+
+* **RPM Strategy:** Keep surface RPM stable at 139; evaluate minor changes only after completing the WOB test.
+
+* **Real-time Task:** Monitor MSE and vibrations closely after each adjustment to lock the new parameter sweet spot.
